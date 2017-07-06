@@ -10,5 +10,4 @@ Java is fast because of JIT compiler.
 Just In Time compiler stores the repeated code in its cache memory and in byte code where repeated code is used ,
 instead of loading that code again from memory JIT use it from its cache memory and safe time and space and make execution fast.
 
-basically this why i choosed java because it is fast,reliable and secure language besides it is the most popular language that
-everyones using it around the world so it has a great support when you ask for something.
+basically this is why i choosed java because it is fast,reliable and secure language besides it is the most popular language that everyones using it around the world so it has a great support when you ask for something.
